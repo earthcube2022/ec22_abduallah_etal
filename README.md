@@ -37,3 +37,13 @@ Please note that starting Binder might take some time to create and start the im
 Please also note that the execution time in Binder varies based on the availability of resources. The average time to run the notebook is 10-15 minutes, but it could be more.
 
 For the latest updates of FlareML refer to https://github.com/deepsuncode/Machine-learning-as-a-service
+
+## Installation on local machine
+
+|Library | Version   | Description  |
+|---|---|---|
+|matplotlib|3.4.2| Graphics and visualization|
+|numpy| 1.19.5| Array manipulation|
+|scikit-learn| 0.24.2| Machine learning|
+| sklearn-extensions | 0.0.2  | Extension for scikit-learn |
+| pandas|1.2.4| Data loading and manipulation|
